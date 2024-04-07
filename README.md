@@ -10,9 +10,7 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://www.youtube.com/watch?v=98TXDLZLyNs">How to deploy to firebase</a>
 </h3>
 
 ## Built With
